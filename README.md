@@ -2,13 +2,13 @@
 
 
 
-## INSTALL INSTRUCTIONS
+### INSTALL INSTRUCTIONS
 
 Installing Tensorflow: https://www.tensorflow.org/install/
 
 Installing Recurrent Network: https://www.tensorflow.org/tutorials/sequences/recurrent
 
-## RUN INSTRUCTIONS
+### RUN INSTRUCTIONS
 
 python kdd_word_lm.py --data_path=F:/tensorflow/kdd_rnn --model=small --percent_of_data=10
 
