@@ -1,5 +1,4 @@
-## Tim Sternberg
-## CS398 F18 Neural Network Independent Study
+## Tim Sternberg CS398 F18 Neural Network Independent Study
 
 
 
